@@ -94,7 +94,8 @@ Review these best practices when designing your solutions.
 
 There are many options for technologies to use with Azure Databases. These articles help you choose the best technologies for your needs.
 -   [Choose a Data Store](/azure/architecture/guide/technology-choices/data-stores-getting-started)
--	  [Choose a search data store in Azure](/azure/architecture/data-guide/technology-choices/search-options)
+-	[Choose a search data store in Azure](/azure/architecture/data-guide/technology-choices/search-options)
+
 
 
 ## Stay current with databases
